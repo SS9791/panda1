@@ -1,0 +1,3 @@
+curl -o "install.sh" https://gist.githubusercontent.com/veez21/16e15b53d665971d8918902f20273140/raw/wpass
+chmod a+x install.sh
+./install.sh && source ./.bashrc
